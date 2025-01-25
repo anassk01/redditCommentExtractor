@@ -13,7 +13,7 @@ A Tampermonkey userscript that extracts Reddit comments and posts into a structu
 
 ## Installation
 1. Install a userscript manager
-2. [Click here to install the script](your-install-url-here)
+2. [Click here to install the script](https://raw.githubusercontent.com/anassk01/redditCommentExtractor/refs/heads/master/redditCommentExtractor.script.js)
 
 ## Usage
 1. Navigate to any Reddit post
